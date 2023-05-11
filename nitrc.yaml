@@ -2,7 +2,7 @@
 tool_resource_name: richard-1
 associations: []
 organization: RBM Global One
-description: This has been updated from command line (FOR CRON) This is the description of your tool/resource, which will be shown on
+description: XXX This is the description of your tool/resource, which will be shown on
   the Tool/Resource Summary page, in search results, etc. It should not be as comprehensive
   and as formal as the Tool/Resource Purpose and Summary description (step 2), so
   please feel free to use concise and catchy wording. Maximum length is 1023 characters.
