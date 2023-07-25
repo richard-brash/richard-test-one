@@ -1,18 +1,15 @@
 ---
-tool_resource_name: richard-1
+tool_resource_name: brash_test_tool
 associations: []
-organization: RBM Global One
-description: We fund the runCronAsSiteAdmin() function!!!  This is the description of your tool/resource, which will be shown on
-  the Tool/Resource Summary page, in search results, etc. It should not be as comprehensive
-  and as formal as the Tool/Resource Purpose and Summary description (step 2), so
-  please feel free to use concise and catchy wording. Maximum length is 1023 characters.
-  This description may be changed once the tool/resource has been registered.
+organization: ""
+description: During OHBM 2023, we found some operational abnormalities on NITRC.org.
+  This resource will be used to find the source of the problem so it can be fixed.
 non_member_message: This tool/resource's administrator will have to grant you permission
   to view this page.
-funding_source: ""
-homepage: 'http://localhost/projects/richard-1/. '
+funding_source: ~
+homepage: http://www.nitrc.org/projects/brash_test_tool/
 center: ""
-neurodebian_package: datalad
+neurodebian_package: ~
 neurolex_id: ~
 ...
 		
