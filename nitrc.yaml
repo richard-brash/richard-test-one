@@ -1,7 +1,7 @@
 ---
 tool_resource_name: brash_test_tool
 associations: []
-organization: ""
+organization: "what what what"
 description: During OHBM 2023, we found some operational abnormalities on NITRC.org.
   This resource will be used to find the source of the problem so it can be fixed.
 non_member_message: This tool/resource's administrator will have to grant you permission
